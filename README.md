@@ -1,8 +1,8 @@
-# Xiaomi ADB/Fastboot Tools 😊
+# Xiaomi ADB/Fastboot Tools
 
-![](https://img.shields.io/github/downloads/Szaki/XiaomiADBFastbootTools/total.svg)
-![](https://img.shields.io/github/license/Szaki/XiaomiADBFastbootTools.svg)
-[![](https://img.shields.io/twitter/url/https/github.com/Szaki/XiaomiADBFastbootTools.svg?style=social)](https://twitter.com/Szaki_EU)
+## Note: This project is outdated and no longer maintained.
+
+Some functionalities don't work on more recent devices, while others aren't useful or necessary anymore. Alternatives for other functionalities, such as the App Manager, exist elsewhere online ([example](https://github.com/0x192/universal-android-debloater)).
 
 ## Modules
 
